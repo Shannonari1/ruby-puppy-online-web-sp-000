@@ -29,8 +29,7 @@ end
     @name
   end
 
-endclass Dog
-  @@all = []
+
 
   def initialize(name)
     @name = name
